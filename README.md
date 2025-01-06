@@ -33,8 +33,8 @@
 <h2>Download JustDoIt</h2>
 <p>Ready to start checking things off your list? Download JustDoIt today:</p>
 <ul>
-    <li><a href="https://apps.apple.com/tr/app/justdoit-to-do-list/id1234567890" target="_blank">Download on the App Store</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.justdoit.app" target="_blank">Get it on Google Play</a></li>
+    <li><a href="https://apps.apple.com/tr/app/justdoit-to-do-list/id6739545364" target="_blank">Download on the App Store</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.alienproduction.justdoit" target="_blank">Get it on Google Play</a></li>
 </ul>
 
 <h2>Screenshots</h2>
